@@ -124,34 +124,26 @@ Download Node.js:
 # Screenshots
 
 ## Home Page
-
-```md
 ![Homepage](./Screenshots/Homepage.png)
-```
 
 ## Case Studies
 
-```md
 ![Case Studies](./Screenshots/Case_studies.png)
-```
+
 
 ## Insights
 
-```md
 ![Insights](./Screenshots/Insights.png)
-```
+
 
 ## Process
 
-```md
 ![Process](./Screenshots/process.png)
-```
 
 ## SEO Built
 
-```md
 ![SEO Built](./Screenshots/SEO_Built.png)
-```
+
 
 ---
 
